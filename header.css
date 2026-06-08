@@ -1,8 +1,8 @@
 @media screen and  (min-width: 800px) {
     
     h1 {
-        font-size: 500%;
-        color: #288246;
-        background-color: blueviolet;
+        font-size: 200%;
+        color: hwb(0 83% 17%);
+        background-color: #a1835a;
     }
 }
